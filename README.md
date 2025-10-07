@@ -1,6 +1,6 @@
 # ♻️ AI-Powered Recycling and Repurposing of E-Waste
 
-**🏆 Award:** 2nd Place — Ernströmgruppens International Academic Grant (2024)  
+**🏆 Award:** 2nd Place — Ernströmgruppens International Academic Grant  
 **📂 Domains:** Computer Vision • Deep Learning • Cloud AI • Sustainability  
 **💡 Focus:** Object Detection | Decision Intelligence | Circular Economy | Environmental AI  
 
